@@ -82,24 +82,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight&hide_border=true&background=0a0f1e&ring=8b5cf6&fire=ff8c00&currStreakLabel=a78bfa" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&bg_color=0a0f1e&color=60a5fa&line=8b5cf6&point=c084fc&area=true&hide_border=true&height=200" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&hide_border=true" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight&hide_border=true" />
   <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&hide_border=true" />
 </p>
+
+
 ---
 
 ## 🌐 Connect With Me
