@@ -1,90 +1,318 @@
-<h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular</h3>
+<!--- 🔥 Animated Header with Gradient --->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Naheda+Pathan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Java+Full+Stack+Developer;Spring+Boot+|+Angular+|+Problem+Solver;✨+Code.+Create.+Innovate." alt="Typing SVG" />
+</div>
 
+<!--- ✨ Animated Social Badges --->
 <p align="center">
-  <a href="https://linkedin.com/in/nahedakhan">
-    <img src="https://img.shields.io/badge/LinkedIn-Naheda_Pathan-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nahedapathan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/🎯_Focus-Java_Spring_Boot-4f46e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡_Passion-Full_Stack_Development-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_Goal-Product_Based_Companies-f59e0b?style=flat-square" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<!--- 📊 Activity Graph with Animation --->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&bg_color=0a0f1e&color=60a5fa&line=8b5cf6&point=c084fc&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=github-light&bg_color=ffffff&color=4f46e5&line=8b5cf6&point=6366f1&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark" alt="GitHub Activity Graph" width="95%" />
+  </picture>
+</p>
 
-- 🎓 B.Tech in Computer Science  
-- 💻 Java Full Stack Developer (Spring Boot + Angular)  
-- 🌱 Currently learning **Microservices & System Design**  
+---
+
+<!--- 👩‍💻 About + GIF with Interactive Elements --->
+<table align="center">
+<tr>
+<td width="60%">
+
+### 👩‍💻 About Me
+- 🎓 **B.Tech Graduate** in Computer Science  
+- 💻 Passionate about **scalable web applications**  
+- 🌱 Currently mastering **Spring Boot, Microservices & Angular**  
 - 🎯 Goal: Crack **Product-Based Companies**  
-- ⚡ Strong in **DSA + Backend Development**
+- ⚡ Love solving **real-world problems** through code  
+- 🌟 **300+ DSA problems** solved across platforms  
+
+<!--- 📊 Dynamic Stats Badges --->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nahedapathan&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/🚀_Coding_Streak-__STREAK__-blueviolet?style=flat-square" id="streak-badge" />
+  <img src="https://img.shields.io/badge/💻_Code_Time-500+_hours-4f46e5?style=flat-square" />
+</p>
+
+<!--- 🕒 Live Clock Widget --->
+<p align="left">
+  <img src="https://img.shields.io/badge/🕐_IST_Time-__TIME__-10b981?style=flat-square" id="time-badge" />
+  <img src="https://img.shields.io/badge/✨_Vibe-__VIBE__-f59e0b?style=flat-square" id="vibe-badge" />
+</p>
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.tenor.com/Lioq2OCQ2bIAAAAC/lalaartwork-lala.gif" width="260" style="border-radius: 20px;" alt="coding animation" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=200&lines=Always+Coding+✨;Problem+Solving+⚡;Never+Stop+Learning+🚀" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-## 📊 GitHub Stats
+<!--- Animated Tech Stack with Hover Effects --->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,typescript,html,css,angular,bootstrap,tailwind,spring,mysql,postgresql,git,github,docker,linux,aws,postman,vscode" />
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=default" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+<!--- 🏆 GitHub Trophies --->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nahedapathan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-- 🏦 **Bank Management System** – Java + JDBC  
-- 🚖 **Taxi Booking System** – Full Stack  
-- 📚 **Library Management System** – CRUD + DB  
-- 🍽️ **Restaurant Web App** – Angular + Spring Boot  
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master Spring Boot & Microservices  
-- 🔄 Build 5+ Full Stack Projects  
-- 🚀 Crack Product-Based Company  
-- 🌟 Contribute to Open Source  
-
----
-
-## 💬 Quote
-
-> "Consistency + Smart Work = Success 🚀"
-
----
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahedapathan&color=blue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=60a5fa&icon_color=c084fc&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight&hide_border=true&background=0a0f1e&ring=8b5cf6&fire=ff8c00&currStreakLabel=a78bfa" />
 </p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahedapathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&size_weight=0.5&count_weight=0.5" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&bg_color=0a0f1e&color=60a5fa&line=8b5cf6&point=c084fc&area=true&hide_border=true&height=200" />
+</p>
+
+<!--- 📈 WakaTime Stats --->
+<p align="center">
+  <img src="https://wakatime.com/share/@nahedapathan/3a6f2c3d-8e4b-4c7d-9f2a-1b5c8d7e9f0a.svg" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nahedapathan&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nahedakhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/nahedapathan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://leetcode.com/nahedapathan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/pathannaheda_ltr"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://github.com/nahedapathan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nahedapathan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<!--- 🎵 Spotify Now Playing --->
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=naheda&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0f1e&interchange=false&bar_color=8b5cf6&bar_color_cover=true" width="400" />
+</p>
+
+---
+
+## 💬 Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<div align="center">
+  <blockquote id="dynamic-quote" style="font-size: 1.2rem; font-style: italic; padding: 1rem; border-left: 4px solid #8b5cf6; background: #0f172a; border-radius: 10px;">
+    "Consistency + Smart Work = Success 🚀"
+  </blockquote>
+  <button onclick="changeQuote()" style="background: #4f46e5; color: white; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin-top: 10px;">
+    🔄 New Quote
+  </button>
+</div>
+
+---
+
+## 🎯 2026 Goals & Milestones
+
+<table align="center">
+<tr>
+<td align="center">✅</td>
+<td>Master Spring Boot 3 & Microservices</td>
+<td align="center">🔄</td>
+<td>Contribute to 10+ Open Source Projects</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td>Build 5 Full Stack Applications</td>
+<td align="center">📝</td>
+<td>Write Technical Blogs on Java & Angular</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td>Crack Product-Based Company Interviews</td>
+<td align="center">🌟</td>
+<td>Achieve 500+ GitHub Stars</td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td>Complete System Design Course</td>
+<td align="center">🎓</td>
+<td>Get AWS Certified</td>
+</tr>
+</table>
+
+<!--- 🎯 Progress Tracker --->
+<p align="center">
+  <img src="https://progress-bar.dev/75/?title=Spring_Boot_Mastery&width=300&color=8b5cf6" />
+  <img src="https://progress-bar.dev/60/?title=Microservices&width=300&color=60a5fa" />
+  <br />
+  <img src="https://progress-bar.dev/85/?title=DSA_Practice&width=300&color=10b981" />
+  <img src="https://progress-bar.dev/40/?title=Open_Source&width=300&color=f59e0b" />
+</p>
+
+---
+
+## 📊 Recent Activity
+
+<!--- 🔥 GitHub Metrics --->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahedapathan&theme=tokyonight" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahedapathan&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahedapathan&theme=tokyonight" width="45%" />
+</p>
+
+<!--- 📅 Contribution Calendar --->
+<p align="center">
+  <img src="https://ghchart.rshah.org/nahedapathan" alt="GitHub Contribution Calendar" />
+</p>
+
+---
+
+## 🎨 Fun Facts & Achievements
+
+<details>
+<summary><b>✨ Click to see interesting facts about me!</b></summary>
+<br />
+
+- 🏆 Solved **300+ DSA problems** across LeetCode, HackerRank & GeeksforGeeks
+- 🚀 First open-source contribution was a UI fix in an **Angular dashboard**
+- 💡 Built a **Spring Boot application** that handles 10k+ concurrent users
+- 🎨 Love creating **interactive UI components** with Angular animations
+- 📚 Currently reading: "Clean Code" & "System Design Interview"
+- 🌟 Mentored **10+ students** in Java & Spring Boot
+- 🎯 Participated in **5+ hackathons** and won 2
+- 💬 Favorite programming quote: "Code is poetry in motion"
+
+</details>
+<br />
+
+<!--- 🎵 Fun Badges --->
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_Idea_Machine-Always_ON-4f46e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Intensity-Espresso-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐛_Bug_Hunter-Elite-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎨_UI_Enthusiast-Angular-ff6f00?style=flat-square" />
+</p>
+
+---
+
+<!--- Footer with Animation --->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding%20✨&fontSize=20&fontAlignY=70&animation=twinkling" width="100%" />
+</p>
+
+<!--- 📜 JavaScript for Interactive Features --->
+<script>
+  // Dynamic time update
+  function updateTime() {
+    const now = new Date();
+    const istTime = now.toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata', hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    const timeBadge = document.getElementById('time-badge');
+    if (timeBadge) {
+      timeBadge.src = timeBadge.src.replace(/__TIME__/g, istTime);
+    }
+    
+    // Dynamic streak message
+    const hour = now.getHours();
+    let streakMsg = '';
+    if (hour < 12) streakMsg = '🔥 Morning Coder';
+    else if (hour < 18) streakMsg = '☕ Afternoon Grind';
+    else streakMsg = '🌙 Night Owl Mode';
+    
+    const streakBadge = document.getElementById('streak-badge');
+    if (streakBadge) {
+      streakBadge.src = streakBadge.src.replace(/__STREAK__/g, streakMsg);
+    }
+    
+    // Dynamic vibe
+    const vibes = ['✨ Active', '⚡ Coding Mode', '🚀 Full Stack Mode', '🔥 Problem Solving', '💡 Innovating'];
+    const vibeBadge = document.getElementById('vibe-badge');
+    if (vibeBadge) {
+      const randomVibe = vibes[Math.floor(Math.random() * vibes.length)];
+      vibeBadge.src = vibeBadge.src.replace(/__VIBE__/g, randomVibe);
+    }
+  }
+  
+  // Quote generator
+  const quotes = [
+    '"Consistency + Smart Work = Success 🚀"',
+    '"Code is like humor. When you have to explain it, it’s bad." – Cory House',
+    '"First, solve the problem. Then, write the code." – John Johnson',
+    '"The only way to go fast is to go well." – Robert C. Martin',
+    '"Simplicity is the soul of efficiency." – Austin Freeman',
+    '"Make it work, make it right, make it fast." – Kent Beck',
+    '"Spring Boot makes Java great again! 💚"',
+    '"Angular + Spring Boot = Full Stack Superpower ⚡"',
+    '"Dream big, code bigger, and never stop learning."',
+    '"The best error message is the one that never shows up."'
+  ];
+  
+  let currentQuoteIndex = Math.floor(Math.random() * quotes.length);
+  
+  function changeQuote() {
+    let newIndex;
+    do {
+      newIndex = Math.floor(Math.random() * quotes.length);
+    } while (quotes.length > 1 && newIndex === currentQuoteIndex);
+    currentQuoteIndex = newIndex;
+    const quoteElement = document.getElementById('dynamic-quote');
+    if (quoteElement) {
+      quoteElement.style.opacity = '0';
+      setTimeout(() => {
+        quoteElement.innerHTML = quotes[currentQuoteIndex];
+        quoteElement.style.opacity = '1';
+      }, 200);
+    }
+  }
+  
+  // Initialize
+  updateTime();
+  setInterval(updateTime, 1000);
+  
+  // Set initial quote
+  const quoteElement = document.getElementById('dynamic-quote');
+  if (quoteElement) {
+    quoteElement.innerHTML = quotes[currentQuoteIndex];
+    quoteElement.style.transition = 'opacity 0.2s';
+  }
+  
+  // Add hover effects to all badges
+  const badges = document.querySelectorAll('img[src*="skillicons"], img[src*="badge"]');
+  badges.forEach(badge => {
+    badge.style.transition = 'transform 0.2s ease';
+    badge.addEventListener('mouseenter', () => { badge.style.transform = 'scale(1.05)'; });
+    badge.addEventListener('mouseleave', () => { badge.style.transform = 'scale(1)'; });
+  });
+  
+  console.log('%c✨ Naheda\'s GitHub Profile - Enhanced with Animations! ✨', 'color: #8b5cf6; font-size: 14px; font-weight: bold;');
+</script>
