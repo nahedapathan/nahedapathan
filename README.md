@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular | Problem Solver</h3>
+---
+
+### 🔥 Activity Graph
+[![Naheda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark)](https://github.com/nahedapathan)
+
+
 
 <img align="right" alt="coding" width="380" src="https://media.tenor.com/Lioq2OCQ2bIAAAAC/lalaartwork-lala.gif">
 
@@ -43,11 +49,6 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahedapathan&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🔥 Activity Graph
-[![Naheda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark)](https://github.com/nahedapathan)
 
 ---
 
