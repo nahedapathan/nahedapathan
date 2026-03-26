@@ -1,5 +1,3 @@
-![logo](https://github.com/nahedapathan/nahedapathan/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular | Problem Solver</h3>
 
@@ -32,25 +30,6 @@
 
 #### 🛠️ Tools & Platforms
 `Git` `GitHub` `Linux` `AWS (Basics)` `Postman`
-
----
-
-### 📂 Projects
-
-🔹 **Electricity Billing System**  
-👉 Java + Spring Boot + Angular  
-✔️ Bill generation, payment tracking, customer management  
-
-🔹 **Employee Management System**  
-👉 Full Stack (Spring Boot + Angular)  
-✔️ CRUD, Authentication, Pagination, File Upload  
-
-🔹 **Bank Management System**  
-👉 Core Java + JDBC  
-✔️ Account handling, transactions  
-
-🔹 **Library Management System**  
-✔️ Book issue/return system with validations  
 
 ---
 
