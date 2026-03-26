@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular | Problem Solver</h3>
----
 
-### 🔥 Activity Graph
 [![Naheda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark)](https://github.com/nahedapathan)
 
 
@@ -58,7 +56,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/nahedakhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/nahedapathan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/nahedapathan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nahedapathan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pathannaheda_ltr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -70,3 +68,32 @@
 
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=nahedapathan&color=blueviolet)
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java,js,mysql" /><br><br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap" /><br><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlets-FF6F00?style=for-the-badge&logo=java&logoColor=white" /><br><br>
+
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman" />
+
+</p>
+
+---
