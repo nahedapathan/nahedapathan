@@ -1,100 +1,90 @@
-<!--- 🔥 Animated Header --->
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Naheda+Pathan" />
-  </h1>
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Java+Full+Stack+Developer;Spring+Boot+|+Angular+|+Problem+Solver" />
-  </h3>
-</div>
+<h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular</h3>
 
----
-
-<!--- 📊 Activity Graph --->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&hide_border=true" />
+  <a href="https://linkedin.com/in/nahedakhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Naheda_Pathan-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nahedapathan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-<!--- 👩‍💻 About + GIF --->
-<table>
-<tr>
-<td width="60%">
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
-- 🎓 B.Tech Graduate in Computer Science  
-- 💻 Passionate about scalable web applications  
-- 🌱 Learning **Spring Boot, Microservices & Angular**  
-- 🎯 Goal: Crack Product-Based Companies  
-- ⚡ Love solving real-world problems  
-
-<img src="https://komarev.com/ghpvc/?username=nahedapathan&color=blueviolet&style=flat-square" />
-<img src="https://img.shields.io/badge/🚀_Coding_Streak-Active-blueviolet?style=flat-square" />
-
-</td>
-
-<td width="40%" align="center">
-<img src="https://media.tenor.com/Lioq2OCQ2bIAAAAC/lalaartwork-lala.gif" width="250"/>
-</td>
-</tr>
-</table>
+- 🎓 B.Tech in Computer Science  
+- 💻 Java Full Stack Developer (Spring Boot + Angular)  
+- 🌱 Currently learning **Microservices & System Design**  
+- 🎯 Goal: Crack **Product-Based Companies**  
+- ⚡ Strong in **DSA + Backend Development**
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,angular,bootstrap,spring,mysql,git,github,linux,aws,postman" />
-</p>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlets-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahedapathan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=default" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Projects
 
-<p align="center">
-<a href="https://linkedin.com/in/nahedakhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/nahedapathan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/nahedapathan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/pathannaheda_ltr"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
----
-
-## 💬 Quote
-> "Consistency + Smart Work = Success 🚀"
+- 🏦 **Bank Management System** – Java + JDBC  
+- 🚖 **Taxi Booking System** – Full Stack  
+- 📚 **Library Management System** – CRUD + DB  
+- 🍽️ **Restaurant Web App** – Angular + Spring Boot  
 
 ---
 
 ## 🎯 2026 Goals
-- 🚀 Build 5 Full Stack Projects  
+
+- ✅ Master Spring Boot & Microservices  
+- 🔄 Build 5+ Full Stack Projects  
+- 🚀 Crack Product-Based Company  
 - 🌟 Contribute to Open Source  
-- 🎯 Crack Product-Based Company  
-- 🧠 Master DSA + System Design  
 
 ---
 
-<!--- Footer --->
+## 💬 Quote
+
+> "Consistency + Smart Work = Success 🚀"
+
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=nahedapathan&color=blue" />
 </p>
