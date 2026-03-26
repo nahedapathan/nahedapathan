@@ -77,11 +77,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<!--- 🏆 GitHub Trophies --->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahedapathan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -96,12 +91,6 @@
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark&bg_color=0a0f1e&color=60a5fa&line=8b5cf6&point=c084fc&area=true&hide_border=true&height=200" />
 </p>
 
-<!--- 📈 WakaTime Stats --->
-<p align="center">
-  <img src="https://wakatime.com/share/@nahedapathan/3a6f2c3d-8e4b-4c7d-9f2a-1b5c8d7e9f0a.svg" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nahedapathan&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -112,30 +101,7 @@
   <a href="https://leetcode.com/nahedapathan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/profile/pathannaheda_ltr"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://github.com/nahedapathan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:nahedapathan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<!--- 🎵 Spotify Now Playing --->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=naheda&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0f1e&interchange=false&bar_color=8b5cf6&bar_color_cover=true" width="400" />
-</p>
-
----
-
-## 💬 Quote of the Moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<div align="center">
-  <blockquote id="dynamic-quote" style="font-size: 1.2rem; font-style: italic; padding: 1rem; border-left: 4px solid #8b5cf6; background: #0f172a; border-radius: 10px;">
-    "Consistency + Smart Work = Success 🚀"
-  </blockquote>
-  <button onclick="changeQuote()" style="background: #4f46e5; color: white; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin-top: 10px;">
-    🔄 New Quote
-  </button>
-</div>
 
 ---
 
@@ -168,15 +134,6 @@
 </tr>
 </table>
 
-<!--- 🎯 Progress Tracker --->
-<p align="center">
-  <img src="https://progress-bar.dev/75/?title=Spring_Boot_Mastery&width=300&color=8b5cf6" />
-  <img src="https://progress-bar.dev/60/?title=Microservices&width=300&color=60a5fa" />
-  <br />
-  <img src="https://progress-bar.dev/85/?title=DSA_Practice&width=300&color=10b981" />
-  <img src="https://progress-bar.dev/40/?title=Open_Source&width=300&color=f59e0b" />
-</p>
-
 ---
 
 ## 📊 Recent Activity
@@ -204,13 +161,11 @@
 <summary><b>✨ Click to see interesting facts about me!</b></summary>
 <br />
 
-- 🏆 Solved **300+ DSA problems** across LeetCode, HackerRank & GeeksforGeeks
+- 🏆 Solved ** DSA problems** across LeetCode, HackerRank & GeeksforGeeks
 - 🚀 First open-source contribution was a UI fix in an **Angular dashboard**
 - 💡 Built a **Spring Boot application** that handles 10k+ concurrent users
 - 🎨 Love creating **interactive UI components** with Angular animations
 - 📚 Currently reading: "Clean Code" & "System Design Interview"
-- 🌟 Mentored **10+ students** in Java & Spring Boot
-- 🎯 Participated in **5+ hackathons** and won 2
 - 💬 Favorite programming quote: "Code is poetry in motion"
 
 </details>
