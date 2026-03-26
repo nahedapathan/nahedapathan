@@ -1,32 +1,92 @@
 ![logo](https://github.com/nahedapathan/nahedapathan/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Naheda Pathan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Angular | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/Lioq2OCQ2bIAAAAC/lalaartwork-lala.gif">
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/Lioq2OCQ2bIAAAAC/lalaartwork-lala.gif">
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahedapathan&label=Profile%20views&color=0e75b6&style=flat" alt="nahedapathan" /> </p>
+### 👩‍💻 About Me
+- 🎓 B.Tech Graduate in Computer Science  
+- 💻 Passionate about building **scalable web applications**
+- 🌱 Currently mastering **Spring Boot, Microservices & Angular**
+- 🎯 Goal: Become a **Top Software Engineer & Crack Product-Based Companies**
+- ⚡ Love solving real-world problems through code  
 
-- 🌱 I’m currently learning **Java Full Stack Course**
+---
 
-- 💬 Ask me about **Java,SQL,HTML5,CSS3,JS,Spring Framework**
+### 🚀 Tech Stack
 
-- 📫 How to reach me **pathannaheda.ltr@gmail.com**
+#### 💡 Languages
+`Java` `JavaScript` `SQL`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nahedapathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahedapathan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/nahedakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nahedakhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nahedapathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nahedapathan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nahedapathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nahedapathan/" height="30" width="40" /></a>
+#### 🌐 Frontend
+`HTML5` `CSS3` `Angular` `Bootstrap`
+
+#### ⚙️ Backend
+`Spring Boot` `Spring MVC` `Hibernate` `JDBC` `Servlets`
+
+#### 🗄️ Database
+`MySQL` `Oracle`
+
+#### 🛠️ Tools & Platforms
+`Git` `GitHub` `Linux` `AWS (Basics)` `Postman`
+
+---
+
+### 📂 Projects
+
+🔹 **Electricity Billing System**  
+👉 Java + Spring Boot + Angular  
+✔️ Bill generation, payment tracking, customer management  
+
+🔹 **Employee Management System**  
+👉 Full Stack (Spring Boot + Angular)  
+✔️ CRUD, Authentication, Pagination, File Upload  
+
+🔹 **Bank Management System**  
+👉 Core Java + JDBC  
+✔️ Account handling, transactions  
+
+🔹 **Library Management System**  
+✔️ Book issue/return system with validations  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahedapathan&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahedapathan&show_icons=true&locale=en&layout=compact" alt="nahedapathan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahedapathan&show_icons=true&locale=en" alt="nahedapathan" /></p>
+### 🔥 Activity Graph
+[![Naheda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahedapathan&theme=react-dark)](https://github.com/nahedapathan)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahedapathan&" alt="nahedapathan" /></p>
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/nahedakhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/nahedapathan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/nahedapathan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nahedapathan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 💬 Quote I Believe In
+> "Consistency + Smart Work = Success 🚀"
+
+---
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=nahedapathan&color=blueviolet)
